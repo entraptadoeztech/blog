@@ -1,11 +1,11 @@
 /* these are the site colors, replace them with anything you want!
  * this version is highly customizable... use simple-style.css for quicker editing if you don't care too much about the specifics!*/
 :root {
-  --site-bg: violet;
+  --site-bg: blueviolet;
   /*or like this for just a solid color:*/
   /*--site-bg: #FFE1C6; */
   
-  --post-bg: white;
+  --post-bg: violet;
   --post-text: #4E223D;
   --post-header-text: #DA587E;
   --border-color: #FB8AAB;
