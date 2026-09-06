@@ -79,7 +79,9 @@ body {
   /*if you use a bg image, this will keep it from scrolling*/
   background-attachment: fixed;
 }
-
+a{
+  color:hotpink;
+}
 /*use a special font for certain headings/buttons*/
 h1,
 nav,
